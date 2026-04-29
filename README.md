@@ -22,9 +22,9 @@ This project walks through the **full data science lifecycle** using two dataset
 
 ---
 
-## 🔍 What's Inside the Notebook
+##  What's Inside the Notebook
 
-### 1. 📊 Exploratory Data Analysis (EDA)
+### 1.  Exploratory Data Analysis (EDA)
 - Load and preview both datasets using `.head()`, `.tail()`, `.info()`, `.describe()`
 - Visualise patient **weight** and **height** distributions using KDE histograms (Seaborn)
 - Detect outliers (e.g. height = 27, weight = 48.8)
@@ -58,7 +58,7 @@ treatments_df = treatments_df.melt(
 
 ---
 
-### 3. 📞 Contact Info Extraction (Regex)
+### 3.  Contact Info Extraction (Regex)
 
 Parses messy `contact` column to extract **phone numbers** and **email addresses** into separate columns using `re` and `str.extract()`.
 
@@ -81,7 +81,7 @@ Cleaned contact data is exported to **`patients_details.xlsx`**.
 
 ---
 
-### 5. 🤖 My First ML Model — Predicting HbA1c Outcomes
+### 5. My First ML Model — Predicting HbA1c Outcomes
 
 #### Features Used
 | Feature | Description |
@@ -115,7 +115,7 @@ New features created to boost model performance:
 
 ---
 
-### 7. 📈 Model Comparison
+### 7.  Model Comparison
 
 Two models trained and evaluated head-to-head:
 
@@ -144,10 +144,10 @@ Feature importance from the Random Forest is also analysed to understand which v
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Run in Google Colab (Recommended)
-Click the badge at the top ☝️
+Click the badge at the top 
 
 ### Run Locally
 
@@ -182,12 +182,10 @@ By working through this notebook, you will understand:
 - How to compare models and interpret feature importance
 
 ---
+### Waka Time Update
+<img width="1641" height="639" alt="image" src="https://github.com/user-attachments/assets/fe3c4ab8-7ae5-4c5a-ae82-b36691cdd330" />
+<img width="1631" height="892" alt="image" src="https://github.com/user-attachments/assets/6c93946e-1516-49e4-8c28-598f7a0e1d72" />
 
-##  Author
 
-**Monoartiam99**  
-[GitHub Profile](https://github.com/Monoartiam99)
-
----
 
 > 💡 *This is Assignment 02 — part of a hands-on data science learning journey.*
