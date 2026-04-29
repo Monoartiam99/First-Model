@@ -170,7 +170,7 @@ Make sure `patients.csv` and `treatments.csv` are in the same directory as the n
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 By working through this notebook, you will understand:
 
