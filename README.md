@@ -1,5 +1,5 @@
 # First-Model
-# 🏥 Patient Data Analysis & My First ML Model
+#  Patient Data Analysis & My First ML Model
 
 > A complete data wrangling and machine learning pipeline built on real-world patient and treatment datasets — from raw CSV to trained regression models.
 
